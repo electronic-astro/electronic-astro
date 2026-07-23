@@ -8,7 +8,7 @@ I'm an **Electronics & Computer Engineering** student/engineer passionate about 
 - 🌱 Always learning new tools across both **hardware** and **web/mobile** development
 - 💬 Ask me about Embedded Systems, C/C++, Python, or Web Development
 - 📫 Reach me at: **YOUR_EMAIL**
-- 🌐 Portfolio: **pieatechno.com**
+- 🌐 Portfolio: https://pieatechno.com/
 
 ---
 
